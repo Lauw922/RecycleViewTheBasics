@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RecycleView The Basics</string>
+    <string-array name="interne">
+        <item>David 1</item>
+        <item>Naziha</item>
+        <item>Naoufel</item>
+        <item>Jérome</item>
+        <item>David 2</item>
+        <item>Laureline</item>
+        <item>Stalenes</item>
+        <item>Khadim</item>
+        <item>Rima</item>
+        <item>Nadia</item>
+        <item>Simon</item>
+        <item>Didier</item>
+        <item>Ali</item>
+        <item>Samuel</item>
+    </string-array>
+    <string-array name="description">
+        <item>1Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>2Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>3Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>4Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>5Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>6Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>7Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>8Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>9Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>10Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>11Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>12Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>13Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </item>
+        <item>14Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </item>
+    </string-array>
+</resources>
